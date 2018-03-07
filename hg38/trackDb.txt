@@ -1,0 +1,5 @@
+track DFNB31-1000Gp1
+bigDataUrl DFNB31.1000G_phase1.snps.high_confidence.hg38.vcf.gz
+shortLabel DFNB31 1000Gp1 Snps
+longLabel DFNB21 1000Gp1 High Confidence SNPs from GATK hg38 Resource Bundle
+type vcfTabix
