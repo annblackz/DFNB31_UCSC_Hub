@@ -1,5 +1,5 @@
 track DFNB31-GnomAD
-bigDataURL DFNB31.gnomad.genomes.r2.0.2.sites.chr9.vcf.gz
+bigDataUrl DFNB31.gnomad.genomes.r2.0.2.sites.chr9.vcf.gz
 shortLabel DFNB31 gnomAD
 longLabel DFNB21 gnomAD
-type VCF
+type vcfTabix
