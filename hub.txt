@@ -1,0 +1,6 @@
+hub ARHL_DFNB31_Hub
+shortLabel ARHL Hub
+longLabel UCSC Informatics Hub for ARHL Data
+genomesFile genomes.txt
+email elizabeth-black@uiowa.edu
+decriptionURL arhlHub.html
