@@ -1,5 +1,42 @@
 track DFNB31-GnomAD
 bigDataUrl DFNB31.gnomad.genomes.r2.0.2.sites.chr9.vcf.gz
-shortLabel DFNB31 gnomAD
-longLabel DFNB21 gnomAD
+shortLabel DFNB31 gnomAD r2.0.2
+longLabel DFNB31 gnomAD r2.0.2
 type vcfTabix
+
+track DFNB31-1000G-P1-SNPs
+bigDataUrl DFNB31.1000G_phase1.snps.high_confidence.b37.vcf.gz
+shortLabel DFNB31 1000G Phase1 SNPs
+longLabel DFNB31 1000G Phase1 SNPs High Confidence from GATK Bundle 37
+type vcfTabix
+
+track DFNB31-1000G-P1-InDels
+bigDataUrl DFNB31.1000G_phase1.indels.b37.vcf.gz
+shortLabel DFNB31 1000G Phase1 InDels
+longLabel DFNB31 1000G Phase1 InDels from GATK Bundle 37
+type vcfTabix
+
+track DFNB31-1000G-P3v4
+bigDataUrl DFNB31.1000G_phase3_v4_20130502.sites.vcf.gz
+shortLabel DFNB31 1000G Phase3v4 SNPs
+longLabel DFNB31 1000G Phase3v4 SNPs GATK Bundle 37
+type vcfTabix
+
+track DFNB31-HapMap-3.3
+bigDataUrl DFNB31.hapmap_3.3.b37.vcf.gz
+shortLabel DFNB31 HapMap v3.3
+longLabel DFNB31 HapMap v3.3 from GATK Bundle 37
+type vcfTabix
+
+track DFNB31-HRC-R1.1
+bigDataUrl DFNB31.HRC.r1-1.GRCh37.wgs.mac5.sites.vcf.gz
+shortLabel DFNB31 HRC r1.1
+longLabel DFNB31 Haplotype Reference Consortium r 1.1
+type vcfTabix
+
+track DFNB31-ARHL-Sardenia
+bigDataUrl DFNB31.ARHL-UR.7262016.norm.PASS.no-type-other.snps-indels.fill-tags.vcf.gz
+shortLabel DFNB31 ARHL Sardenia Samples
+longLabel DFNB31 ARHL Sardenia Samples
+type vcfTabix
+
