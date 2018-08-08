@@ -15,3 +15,9 @@ bigDataUrl DFNB31.hapmap_3.3_grch38_pop_stratified_af.vcf.gz
 shortLabel DFNB31 HapMap v3.3 PST AF Snps
 longLabel DFNB31 HapMap v3.3 Population Stratified AF Snps from GATK hg38 Resource Bundle
 type vcfTabix
+
+track DFNB31-Haploview-Blocks
+bigDataUrl DFNB31.1kg.phase3.v5a.EUR.haploblocks.hg38.bed
+shortLabel DFNB31 Haploblocks
+longLabel DFNB31 Haploblock ranges from Haploview
+type bed
