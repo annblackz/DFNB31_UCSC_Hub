@@ -40,3 +40,8 @@ shortLabel DFNB31 ARHL Sardenia Samples
 longLabel DFNB31 ARHL Sardenia Samples
 type vcfTabix
 
+track DFNB31-Haploview-Blocks
+bigDataUrl DFNB31.1kg.phase3.v5a.EUR.haploblocks.bed
+shortLabel DFNB31 Haploblocks
+longLabel DFNB31 Haploblock ranges from Haploview
+type bed
