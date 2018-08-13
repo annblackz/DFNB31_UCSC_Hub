@@ -45,3 +45,4 @@ bigDataUrl DFNB31.1kg.phase3.v5a.EUR.haploblocks.bb
 shortLabel DFNB31 Haploblocks
 longLabel DFNB31 Haploblock ranges from Haploview
 type bigBed
+visibility dense
